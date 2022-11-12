@@ -1,9 +1,9 @@
 # Sportify
 Sportify is a web-based app that shows the sporting events around you, and allows you to post any recreational games you are organizing to get people to attend!
 
-#Run Locally
+Run Locally
 
-#1. Clone repo
+1. Clone repo
 $ git clone https://github.com/firangizg/Sportify.git
 $ cd sportify
 
@@ -24,7 +24,6 @@ $ npm install
 $ npm start
 
 5. Run Frontend
-# open new terminal
 $ cd frontend
 $ npm install
 $ npm start
