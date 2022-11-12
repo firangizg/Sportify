@@ -1,13 +1,13 @@
 # Sportify
 Sportify is a web-based app that shows the sporting events around you, and allows you to post any recreational games you are organizing to get people to attend!
 
-Run Locally
+#Run Locally
 
-1. Clone repo
+#1. Clone repo
 $ git clone https://github.com/firangizg/Sportify.git
 $ cd sportify
 
-2. Create .env File
+#2. Create .env File
 duplicate .env.example in backend folder and rename it to .env
 
 3. Setup MongoDB
