@@ -14,8 +14,6 @@ duplicate .env.example in backend folder and rename it to .env
 Local MongoDB
 Install it from here
 In .env file update MONGODB_URI=mongodb://localhost/sportify
-OR Atlas Cloud MongoDB
-Create database at https://cloud.mongodb.com
 In .env file update MONGODB_URI=mongodb+srv://your-db-connection
 
 #4. Run Backend
